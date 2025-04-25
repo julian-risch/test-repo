@@ -1,4 +1,4 @@
 # test-repo
 
-def new_function():
+def old_function():
     pass
